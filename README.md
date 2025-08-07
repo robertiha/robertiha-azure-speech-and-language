@@ -1,2 +1,20 @@
-# robertiha-azure-speech-and-language
-Práticas com Azure para análise de fala e NLP - transcrições, sentimentos e processamento de linguagem natural.
+# Laboratório de Análise de Fala e Linguagem Natural com Azure
+
+Este repositório documenta minha jornada de aprendizado e prática com as ferramentas Azure Speech Studio e Language Studio, focando em soluções de IA para processamento de voz e linguagem natural.
+
+## 📌 Objetivos do Projeto
+- Explorar as funcionalidades do Azure Speech Studio
+- Experimentar com análise de linguagem natural no Language Studio
+- Documentar processos e aprendizados
+
+| Estrutura do Repositório  |
+|---------------------------|
+| `README.md`               |
+| `notas/`                  |
+|  ↳ `speech-studio.md`     |
+|  ↳ `language-studio.md`   |
+| `audios/`                 |
+|  ↳ `dialogo-teste.mp3`    |
+| `imagens/`                |
+|  ↳ `transcricao.png`      |
+|  ↳ `sentimentos.png`      |
