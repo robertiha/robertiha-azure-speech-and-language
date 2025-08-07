@@ -13,7 +13,7 @@ Este repositório documenta minha jornada de aprendizado e prática com as ferra
 | `notas/`                  |
 |  ↳ `speech-studio.md`     |
 |  ↳ `language-studio.md`   |
-| `audios/`                 |
+| `audio/`                 |
 |  ↳ `dialogo-teste.mp3`    |
 | `imagens/`                |
 |  ↳ `transcricao.png`      |
