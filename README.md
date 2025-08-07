@@ -18,3 +18,8 @@ Este repositório documenta minha jornada de aprendizado e prática com as ferra
 | `imagens/`                |
 |  ↳ `transcricao.png`      |
 |  ↳ `sentimentos.png`      |
+
+
+## 📚 Recursos Adicionais
+- [Documentação do Azure Speech Studio](https://learn.microsoft.com/pt-br/azure/cognitive-services/speech-service/)
+- [Documentação do Language Studio](https://learn.microsoft.com/pt-br/azure/cognitive-services/language-service/)
